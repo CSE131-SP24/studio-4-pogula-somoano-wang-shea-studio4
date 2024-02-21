@@ -23,39 +23,55 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void norway() {
+		StdDraw.clear();
 		StdDraw.setXscale(0, 22);
 		StdDraw.setYscale(0, 16);
 		mother();
+		
 	}
 
 	public static void france() {
+		StdDraw.clear();
+		StdDraw.setXscale(8, 11);
+		StdDraw.setYscale(0, 2);
+		mother();
 		
-		// TODO
 	}
 
 	public static void indonesia() {
-		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(0, 3);
+		StdDraw.setYscale(9, 11);
+		mother();
 	}
 
 	public static void netherlands() {
-		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(0, 4);
+		StdDraw.setYscale(8, 11);
+		mother();
 	}
 
 	public static void poland() {
 		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(0, 3);
+		StdDraw.setYscale(5, 7);
+		mother();
 	}
 
 	public static void thailand() {
-		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(10, 19);
+		StdDraw.setYscale(5, 11);
+		mother();
 	}
 
 	public static void finland() {
-		
-		// TODO
+		StdDraw.clear();
+		StdDraw.setXscale(6, 11);
+		StdDraw.setYscale(6, 10);
+		mother();
 	}
 
 	public static void main(String[] args) {
